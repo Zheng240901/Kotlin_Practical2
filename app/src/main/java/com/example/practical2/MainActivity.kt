@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var btn1: Button
     private lateinit var btn2: Button
     private lateinit var btn3: Button
+    private lateinit var btn4: Button
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
