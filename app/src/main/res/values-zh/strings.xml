@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">早上好中国</string>
+    <string name="click_me">按我</string>
+    <string name="button_1">老干妈1</string>
+    <string name="button_2">老干妈2</string>
+    <string name="exit">推出</string>
+    <string name="hello">有%d冰淇淋</string>
+    <string name="toast">Toast说冰淇淋</string>
+    <string name="snackbar">Snackbar说冰淇淋</string>
+</resources>

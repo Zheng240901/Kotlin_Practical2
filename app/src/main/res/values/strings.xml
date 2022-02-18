@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="click_me">Click Me</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="exit">Exit</string>
+    <string name="hello">Hello x %d</string>
+    <string name="toast">Toast says hello</string>
+    <string name="snackbar">Snackbar says hello</string>
+</resources>
